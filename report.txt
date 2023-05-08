@@ -1,0 +1,23 @@
+Loan Eligibility Prediction Python Machine Learning Project. 
+
+Loan approval is a very important process for banking organizations. The system approved or reject the loan applications. Recovery of loans is a major contributing parameter in the financial statements of a bank. It is very difficult to predict the possibility of payment of loan by the customer. In recent years many researchers worked on loan approval prediction systems. Machine Learning (ML)techniques are very useful in predicting outcomes for large amount of data. 
+
+Key Features
+Interface to predict loan application approval
+data insights withhin Jupyter Notebook
+Trained Model
+multiple machine learning algorithms.
+
+
+Technology :
+Flask==1.1.1
+html5lib==1.0.1
+json5==0.8.5
+jsonify==0.5
+numpy==1.16.5
+pandas==0.25.1
+scikit-image==0.15.0
+scikit-learn==0.21.3
+scipy==1.3.1
+gunicorn==19.9.0
+requests==2.22.0
